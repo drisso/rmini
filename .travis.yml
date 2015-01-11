@@ -46,8 +46,8 @@ before_install:
     fi
 
 install:
-  - $PKGR github_package jimhester/covr
-#  - $PKGR github_package HenrikBengtsson/covr
+#  - $PKGR github_package jimhester/covr
+  - $PKGR github_package HenrikBengtsson/covr
   - $PKGR install_deps
 
 script: $PKGR run_tests
