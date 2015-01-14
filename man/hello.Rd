@@ -2,7 +2,6 @@
 \alias{hello}
 
 \title{Hello function}
-}
 
 \description{
 Says hello to the world
