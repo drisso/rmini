@@ -1,0 +1,3 @@
+library("rmini")
+
+smooth()
