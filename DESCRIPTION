@@ -6,3 +6,4 @@ Maintainer: Henrik Bengtsson <henrikb@braju.com>
 License: GPL
 Description: A Minimum R Package
 Imports: methods, graphics
+Suggests: KernSmooth
