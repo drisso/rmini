@@ -1,3 +1,4 @@
 import(methods)
+import(graphics)
 export(hello)
-
+export(smooth)

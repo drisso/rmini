@@ -5,4 +5,4 @@ Author: Henrik Bengtsson
 Maintainer: Henrik Bengtsson <henrikb@braju.com>
 License: GPL
 Description: A Minimum R Package
-Imports: methods
+Imports: methods, graphics
